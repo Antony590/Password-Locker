@@ -21,7 +21,7 @@ The user would like to.... :
 * Cloning
 * Open Terminal {Ctrl+Alt+T}
 
-git clone https://github.com/PatriciaAnduru/Password-Generator.git
+git clone https://github.com/Antony590/Password-Locker.git
 
 * cd Password-Locker
 
@@ -49,11 +49,10 @@ Exit the application	Enter D	The application exits
 Technologies Used
 python3.6
 Known Bugs
-There are no known bugs currently but pull requests are allowed incase you spot a bug
+There are no known bugs currently but pull requests are allowed in case you spot a bug
 Contact Information
 If you have any question or contributions, please email me at [alegoantony047@gmail.com]
 
 License
 * MIT License:
 * Copyright (c) 2021 Antony Ondir
-# Password-Locker
